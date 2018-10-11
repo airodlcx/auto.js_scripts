@@ -1,0 +1,1 @@
+toastLog(currentActivity())
