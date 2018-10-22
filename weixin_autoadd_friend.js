@@ -3,6 +3,10 @@ power by auto.js
 scripts from lcx1995
 weixin_qunaddfriend auto.js scripts
 since 2018.10.11
+
+bug
+1.添加到通讯录页面过长进入死等待
+2.发送界面未知卡死 
 */
 
 function isInArray(arr,value){
